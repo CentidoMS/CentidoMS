@@ -1,0 +1,158 @@
+html, body {
+	height: 100%;
+}
+
+h1{
+	font-size: 1.5em;
+	line-height: 1;
+	margin:0 0 1em;
+}
+
+h2{
+	font-size: 1.25em;
+	line-height: 1.2;
+	margin:0 0 1.2em;
+}
+
+h3{
+	font-size: 1.125em;
+	line-height: 1.333333333;
+	margin:0 0 1.333333333em;
+}
+
+body{
+	background-color: white;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+    line-height: 1.5;
+}
+
+#body{
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	padding: 0;
+	margin: 0 auto -65px;
+}
+
+#topmenu{
+	border-bottom-width: 8px;
+	border-bottom-color: #007AA5;
+	border-bottom-style: solid;
+}
+
+#topmenu ul{
+	width: 80%;
+	margin: auto;
+	background-color: white;
+	height: 33px;
+	list-style: none;
+	margin-top: 5px;
+	padding: 0;
+}
+ 
+#topmenu ul li{
+	float:left;
+}
+ 
+#topmenu ul li a{
+	color: #444444;
+	display: block;
+	font-weight: bold;
+	line-height: 33px;
+	padding: 0px 25px;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-width: 8px;
+	border-bottom-color: #00688F;
+	border-bottom-style: solid;
+}
+ 
+#topmenu ul li a:hover{
+	background-color: white;
+	text-decoration: none;
+	border-bottom-width: 8px;
+	border-bottom-color: #00435D;
+	border-bottom-style: solid;
+}
+
+#wrapper{
+	margin: auto;
+	margin-top: 20px;
+	min-height: 100%;
+	clear: both;
+	width: 80%;
+}
+
+#content{
+	background-color: white;
+	margin-right: 1%;
+	width: 66%;
+	float: left;
+}
+
+#sidebar{
+	width: 32%;
+	margin-left: 1%;
+	float: left;
+}
+
+#sidebar p{
+	background-color: #007AA5;
+	width: 88%;
+	padding: 25px 6%;
+}
+
+#sidebar p:hover{
+	background-color: #00688F;
+	width: 88%;
+	padding: 25px 6%;
+}
+
+#widget{
+	background-color: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	float: left;
+	border-top-width: 8px;
+	border-top-color: #007AA5;
+	border-top-style: solid;
+	border-bottom-width: 8px;
+	border-bottom-color: #007AA5;
+	border-bottom-style: solid;
+}
+
+#widget:hover{
+	border-top-width: 8px;
+	border-top-color: #00688F;
+	border-top-style: solid;
+	border-bottom-width: 8px;
+	border-bottom-color: #00688F;
+	border-bottom-style: solid;
+}
+
+#footer{
+	color: white;
+	float: none;
+	padding-top: 16px;
+	text-align: center;
+	clear: both;
+	height: 41px;
+	width: 100%;
+	background-color: #696869;
+	border-top-width: 8px;
+	border-top-color: #007AA5;
+	border-top-style: solid;
+}
+
+#footer:hover{
+	border-top-width: 8px;
+	border-top-color: #00688F;
+	border-top-style: solid;
+}

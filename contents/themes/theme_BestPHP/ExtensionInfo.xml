@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension>
+	<name>BestPHP</name>
+	<type>theme</type>
+	<version>1.0.00</version>
+	<author>Sahithyen Kanaganayagam</author>
+	<date>29-7-13</date>
+	<license>GNU/GPL</license>
+	<description>Ein Theme das durch die Inspiration von 'php.net' enstanden ist.</description>
+	<data>
+		<info>
+			<devcode>AA-AA-AA-AA-AAAA</devcode>
+			<updateurl>none</updateurl>
+		</info>
+		<installurl>none</installurl>
+		<uninstallurl>none</uninstallurl>
+		<mainurl>index.php</mainurl>
+		<editurl>none</editurl>
+		<positions>
+			<position>sidebar</position>
+			<position>widget</position>
+		</positions>
+		<menus>
+			<menu>topmenu</menu>
+		</menus>
+	</data>
+</extension>
