@@ -1,9 +1,7 @@
 CentidoMS
 =========
 
-CentidoMS is another CMS (Content Management System). With a CMS you can make websites easily. CentidoMS is Open Source. You can edit and use it for free.
-
-CentidoMS is in the Pre Alpha Phase. Help us to make CentidoMS better. Give us your feedback on 'feedback@centidoms.org'.
+CentidoMS is another CMS (Content Management System). I developed it two years ago. Since then I never updated it. My plan is to create a better version of the CMS.
 
 ## Copyright
 Copyright (C) 2013 CentidoMS
