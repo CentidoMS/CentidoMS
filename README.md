@@ -1,7 +1,9 @@
 CentidoMS
 =========
 
-CentidoMS is another CMS (Content Management System). I developed it two years ago. Since then I never updated it. My plan is to create a better version of the CMS.
+CentidoMS is another CMS (Content Management System). I developed it when I was 14 years old. Since then I never updated it.
+
+It was my second attempt on creating a CMS (believe me that my first attempt was much worse than this attempt). I collected a lot of experience from this project.
 
 ## Copyright
 Copyright (C) 2013 CentidoMS
